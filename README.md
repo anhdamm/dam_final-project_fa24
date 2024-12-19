@@ -15,6 +15,7 @@ cd dam_final-project_fa24
 ```
 
 ### Repository Structure
+```
 dam_final-project_fa24/
 ├── webapp/             # Flask application with ML integration
 │   ├── static/         # CSS and JavaScript files
@@ -27,7 +28,7 @@ dam_final-project_fa24/
 |
 ├── AnhDam_FinalProject_Report # Complete project report
 └── README.md          # This file
-
+```
 
 ### Setup Instructions
 
