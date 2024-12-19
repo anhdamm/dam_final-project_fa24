@@ -40,9 +40,12 @@ dam_final-project_fa24/
 
 #### Step 1: Database Setup and Data Loading
 1. Create PostgreSQL database:
+```bash
 createdb spotify_playlist_db
+```
 
 2. Run SQL setup scripts:
+```bash
 # Connect to database
 psql spotify_playlist_db
 
@@ -54,11 +57,13 @@ psql spotify_playlist_db
 
 # Populate artist table
 \i database/populate_artist_table.sql
+```
 
 3. Load the dataset:
+```bash
 cd ml_models
 python data_loading.py
-
+```
 This script will:
 - Create necessary database tables
 - Process the Spotify Million Playlist Dataset
@@ -66,22 +71,34 @@ This script will:
 
 #### Step 2: Train Machine Learning Models
 1. Train the playlist popularity predictor:
+```bash
 cd ml_models/playlist_predictor
 python train_models.py
+```
 
 2. Train the artist clustering model:
+```bash
 cd ml_models/artist_clustering
 python train_models.py
+```
 
-#### Step 3: Run the Web Application (go to webapp/README.md for more instruction)
+#### Step 3: Run the Web Application
+(go to webapp/README.md for more instruction)
+
 1. Navigate to webapp directory:
+```bash
 cd webapp
+```
 
 2. Install requirements:
+```bash
 pip install -r requirements.txt
+```
 
 3. Start the Flask application:
+```bash
 python3 app.py
+```
 
 4. Access the application:
 - Open your browser
