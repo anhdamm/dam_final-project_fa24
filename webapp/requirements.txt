@@ -1,0 +1,9 @@
+# Web Application & ML packages
+Flask==2.0.1
+numpy==2.2.0
+pandas==2.2.0
+psycopg2-binary==2.9.9
+scikit-learn==1.4.0
+Werkzeug==2.0.1
+matplotlib==3.8.2
+sqlalchemy>=2.0.0

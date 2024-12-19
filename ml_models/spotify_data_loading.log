@@ -1,0 +1,685 @@
+2024-12-03 12:44:50,112 - INFO - Starting data loading process
+2024-12-03 12:45:55,746 - INFO - Starting data loading process
+2024-12-03 12:46:02,278 - INFO - Starting data loading process
+2024-12-03 12:46:02,281 - INFO - Found 1000 slice files to process
+2024-12-03 12:46:12,884 - INFO - 
+                    Progress Update:
+                    Processed playlists: 1000
+                    Elapsed time: 0:00:10.606283
+                    Estimated time remaining: 2:56:35.394000
+                
+2024-12-03 12:47:55,638 - INFO - 
+                    Progress Update:
+                    Processed playlists: 11000
+                    Elapsed time: 0:01:53.360831
+                    Estimated time remaining: 2:49:52.634000
+                
+2024-12-03 12:49:47,018 - INFO - 
+                    Progress Update:
+                    Processed playlists: 21000
+                    Elapsed time: 0:03:44.740244
+                    Estimated time remaining: 2:54:37.258000
+                
+2024-12-03 12:51:41,800 - INFO - 
+                    Progress Update:
+                    Processed playlists: 31000
+                    Elapsed time: 0:05:39.522293
+                    Estimated time remaining: 2:56:52.488000
+                
+2024-12-03 12:52:38,720 - ERROR - Error processing playlist 70997: value too long for type character varying(255)
+
+2024-12-03 12:53:36,574 - INFO - 
+                    Progress Update:
+                    Processed playlists: 40999
+                    Elapsed time: 0:07:34.296146
+                    Estimated time remaining: 2:57:06.690081
+                
+2024-12-03 12:55:38,031 - INFO - 
+                    Progress Update:
+                    Processed playlists: 50999
+                    Elapsed time: 0:09:35.753128
+                    Estimated time remaining: 2:58:33.272289
+                
+2024-12-03 12:58:13,546 - INFO - 
+                    Progress Update:
+                    Processed playlists: 60999
+                    Elapsed time: 0:12:11.268505
+                    Estimated time remaining: 3:07:36.743988
+                
+2024-12-03 12:59:47,541 - ERROR - Error processing playlist 316568: value too long for type character varying(255)
+
+2024-12-03 13:01:01,461 - INFO - 
+                    Progress Update:
+                    Processed playlists: 70998
+                    Elapsed time: 0:14:59.183842
+                    Estimated time remaining: 3:16:05.810330
+                
+2024-12-03 13:01:54,602 - ERROR - Error processing playlist 393540: value too long for type character varying(255)
+
+2024-12-03 13:16:28,846 - INFO - 
+                    Progress Update:
+                    Processed playlists: 80997
+                    Elapsed time: 0:30:26.568185
+                    Estimated time remaining: 5:45:24.436653
+                
+2024-12-03 13:23:52,077 - INFO - 
+                    Progress Update:
+                    Processed playlists: 90997
+                    Elapsed time: 0:37:49.799316
+                    Estimated time remaining: 6:17:54.170832
+                
+2024-12-03 13:27:36,658 - ERROR - Error processing playlist 844668: value too long for type character varying(255)
+
+2024-12-03 13:29:35,819 - INFO - 
+                    Progress Update:
+                    Processed playlists: 100996
+                    Elapsed time: 0:43:33.541707
+                    Estimated time remaining: 6:27:44.425512
+                
+2024-12-03 13:40:42,301 - INFO - Starting data loading process
+2024-12-03 13:40:42,303 - INFO - Found 1000 slice files to process
+2024-12-03 13:40:49,797 - INFO - 
+                    Progress Update:
+                    Processed playlists: 1000
+                    Elapsed time: 0:00:07.496016
+                    Estimated time remaining: 2:04:48.504000
+                
+2024-12-03 13:41:58,346 - INFO - 
+                    Progress Update:
+                    Processed playlists: 11000
+                    Elapsed time: 0:01:16.045661
+                    Estimated time remaining: 1:53:56.957000
+                
+2024-12-03 13:43:13,171 - INFO - 
+                    Progress Update:
+                    Processed playlists: 21000
+                    Elapsed time: 0:02:30.870095
+                    Estimated time remaining: 1:57:13.136000
+                
+2024-12-03 13:44:32,184 - INFO - 
+                    Progress Update:
+                    Processed playlists: 31000
+                    Elapsed time: 0:03:49.883825
+                    Estimated time remaining: 1:59:46.104000
+                
+2024-12-03 13:46:01,353 - INFO - 
+                    Progress Update:
+                    Processed playlists: 41000
+                    Elapsed time: 0:05:19.052236
+                    Estimated time remaining: 2:04:22.938000
+                
+2024-12-03 13:47:26,885 - INFO - 
+                    Progress Update:
+                    Processed playlists: 51000
+                    Elapsed time: 0:06:44.583881
+                    Estimated time remaining: 2:05:28.417000
+                
+2024-12-03 13:48:49,449 - INFO - 
+                    Progress Update:
+                    Processed playlists: 61000
+                    Elapsed time: 0:08:07.148234
+                    Estimated time remaining: 2:04:58.854000
+                
+2024-12-03 13:50:14,134 - INFO - 
+                    Progress Update:
+                    Processed playlists: 71000
+                    Elapsed time: 0:09:31.833617
+                    Estimated time remaining: 2:04:42.166000
+                
+2024-12-03 13:51:39,799 - INFO - 
+                    Progress Update:
+                    Processed playlists: 81000
+                    Elapsed time: 0:10:57.497850
+                    Estimated time remaining: 2:04:19.523000
+                
+2024-12-03 13:53:34,262 - INFO - 
+                    Progress Update:
+                    Processed playlists: 91000
+                    Elapsed time: 0:12:51.961728
+                    Estimated time remaining: 2:08:31.047000
+                
+2024-12-03 13:55:43,236 - INFO - 
+                    Progress Update:
+                    Processed playlists: 101000
+                    Elapsed time: 0:15:00.935491
+                    Estimated time remaining: 2:13:39.080000
+                
+2024-12-03 13:57:27,763 - INFO - 
+                    Progress Update:
+                    Processed playlists: 111000
+                    Elapsed time: 0:16:45.462791
+                    Estimated time remaining: 2:14:12.562000
+                
+2024-12-03 13:59:19,210 - INFO - 
+                    Progress Update:
+                    Processed playlists: 121000
+                    Elapsed time: 0:18:36.909090
+                    Estimated time remaining: 2:15:14.049000
+                
+2024-12-03 14:01:15,994 - INFO - 
+                    Progress Update:
+                    Processed playlists: 131000
+                    Elapsed time: 0:20:33.693181
+                    Estimated time remaining: 2:16:24.242000
+                
+2024-12-03 14:03:12,118 - INFO - 
+                    Progress Update:
+                    Processed playlists: 141000
+                    Elapsed time: 0:22:29.817808
+                    Estimated time remaining: 2:17:03.207000
+                
+2024-12-03 14:05:21,169 - INFO - 
+                    Progress Update:
+                    Processed playlists: 151000
+                    Elapsed time: 0:24:38.868674
+                    Estimated time remaining: 2:18:35.106000
+                
+2024-12-03 14:07:28,309 - INFO - 
+                    Progress Update:
+                    Processed playlists: 161000
+                    Elapsed time: 0:26:46.008058
+                    Estimated time remaining: 2:19:29.025000
+                
+2024-12-03 14:16:03,588 - INFO - 
+                    Progress Update:
+                    Processed playlists: 171000
+                    Elapsed time: 0:35:21.287188
+                    Estimated time remaining: 2:51:23.745000
+                
+2024-12-03 15:55:25,870 - INFO - 
+                    Progress Update:
+                    Processed playlists: 181000
+                    Elapsed time: 2:14:43.568852
+                    Estimated time remaining: 10:09:37.359000
+                
+2024-12-03 15:59:31,025 - INFO - 
+                    Progress Update:
+                    Processed playlists: 191000
+                    Elapsed time: 2:18:48.724241
+                    Estimated time remaining: 9:47:57.254000
+                
+2024-12-03 16:03:47,834 - INFO - 
+                    Progress Update:
+                    Processed playlists: 201000
+                    Elapsed time: 2:23:05.533348
+                    Estimated time remaining: 9:28:48.486000
+                
+2024-12-03 16:08:08,300 - INFO - 
+                    Progress Update:
+                    Processed playlists: 211000
+                    Elapsed time: 2:27:25.999589
+                    Estimated time remaining: 9:11:18.036000
+                
+2024-12-03 16:12:00,847 - INFO - 
+                    Progress Update:
+                    Processed playlists: 221000
+                    Elapsed time: 2:31:18.546618
+                    Estimated time remaining: 8:53:20.541000
+                
+2024-12-03 16:16:35,638 - INFO - 
+                    Progress Update:
+                    Processed playlists: 231000
+                    Elapsed time: 2:35:53.337508
+                    Estimated time remaining: 8:38:57.579000
+                
+2024-12-03 16:21:13,941 - INFO - 
+                    Progress Update:
+                    Processed playlists: 241000
+                    Elapsed time: 2:40:31.640766
+                    Estimated time remaining: 8:25:33.435000
+                
+2024-12-03 16:25:51,917 - INFO - 
+                    Progress Update:
+                    Processed playlists: 251000
+                    Elapsed time: 2:45:09.616192
+                    Estimated time remaining: 8:12:51.269000
+                
+2024-12-03 16:30:28,634 - INFO - 
+                    Progress Update:
+                    Processed playlists: 261000
+                    Elapsed time: 2:49:46.332868
+                    Estimated time remaining: 8:00:41.692000
+                
+2024-12-03 16:35:14,571 - INFO - 
+                    Progress Update:
+                    Processed playlists: 271000
+                    Elapsed time: 2:54:32.270127
+                    Estimated time remaining: 7:49:30.747000
+                
+2024-12-03 16:39:54,793 - INFO - 
+                    Progress Update:
+                    Processed playlists: 281000
+                    Elapsed time: 2:59:12.492689
+                    Estimated time remaining: 7:38:32.535000
+                
+2024-12-03 16:54:04,567 - INFO - 
+                    Progress Update:
+                    Processed playlists: 291000
+                    Elapsed time: 3:13:22.265993
+                    Estimated time remaining: 7:51:07.830000
+                
+2024-12-03 16:58:40,579 - INFO - 
+                    Progress Update:
+                    Processed playlists: 301000
+                    Elapsed time: 3:17:58.278227
+                    Estimated time remaining: 7:39:44.637000
+                
+2024-12-03 17:03:11,342 - INFO - 
+                    Progress Update:
+                    Processed playlists: 311000
+                    Elapsed time: 3:22:29.040881
+                    Estimated time remaining: 7:28:35.096000
+                
+2024-12-03 17:07:46,897 - INFO - 
+                    Progress Update:
+                    Processed playlists: 321000
+                    Elapsed time: 3:27:04.596148
+                    Estimated time remaining: 7:18:01.374000
+                
+2024-12-03 17:27:36,447 - INFO - 
+                    Progress Update:
+                    Processed playlists: 331000
+                    Elapsed time: 3:46:54.145809
+                    Estimated time remaining: 7:38:35.970000
+                
+2024-12-03 17:32:04,559 - INFO - 
+                    Progress Update:
+                    Processed playlists: 341000
+                    Elapsed time: 3:51:22.258303
+                    Estimated time remaining: 7:27:07.890000
+                
+2024-12-03 17:42:14,224 - INFO - 
+                    Progress Update:
+                    Processed playlists: 351000
+                    Elapsed time: 4:01:31.923534
+                    Estimated time remaining: 7:26:35.912000
+                
+2024-12-03 17:46:47,721 - INFO - 
+                    Progress Update:
+                    Processed playlists: 361000
+                    Elapsed time: 4:06:05.420008
+                    Estimated time remaining: 7:15:35.739000
+                
+2024-12-03 17:51:20,811 - INFO - 
+                    Progress Update:
+                    Processed playlists: 371000
+                    Elapsed time: 4:10:38.509919
+                    Estimated time remaining: 7:04:56.515000
+                
+2024-12-03 17:55:59,855 - INFO - 
+                    Progress Update:
+                    Processed playlists: 381000
+                    Elapsed time: 4:15:17.553825
+                    Estimated time remaining: 6:54:46.276000
+                
+2024-12-03 18:00:41,870 - INFO - 
+                    Progress Update:
+                    Processed playlists: 391000
+                    Elapsed time: 4:19:59.569770
+                    Estimated time remaining: 6:44:57.273000
+                
+2024-12-03 18:05:32,139 - INFO - 
+                    Progress Update:
+                    Processed playlists: 401000
+                    Elapsed time: 4:24:49.837801
+                    Estimated time remaining: 6:35:35.974000
+                
+2024-12-03 18:10:15,684 - INFO - 
+                    Progress Update:
+                    Processed playlists: 411000
+                    Elapsed time: 4:29:33.382988
+                    Estimated time remaining: 6:26:17.739000
+                
+2024-12-03 18:22:07,397 - INFO - 
+                    Progress Update:
+                    Processed playlists: 421000
+                    Elapsed time: 4:41:25.096431
+                    Estimated time remaining: 6:27:01.953000
+                
+2024-12-03 18:26:36,420 - INFO - 
+                    Progress Update:
+                    Processed playlists: 431000
+                    Elapsed time: 4:45:54.119768
+                    Estimated time remaining: 6:17:26.769000
+                
+2024-12-03 18:31:23,564 - INFO - 
+                    Progress Update:
+                    Processed playlists: 441000
+                    Elapsed time: 4:50:41.263189
+                    Estimated time remaining: 6:08:27.891000
+                
+2024-12-03 18:35:56,651 - INFO - 
+                    Progress Update:
+                    Processed playlists: 451000
+                    Elapsed time: 4:55:14.349897
+                    Estimated time remaining: 5:59:23.622000
+                
+2024-12-03 18:40:53,143 - INFO - 
+                    Progress Update:
+                    Processed playlists: 461000
+                    Elapsed time: 5:00:10.842063
+                    Estimated time remaining: 5:50:58.191000
+                
+2024-12-03 18:45:53,760 - INFO - 
+                    Progress Update:
+                    Processed playlists: 471000
+                    Elapsed time: 5:05:11.459734
+                    Estimated time remaining: 5:42:46.462000
+                
+2024-12-03 19:51:46,578 - INFO - 
+                    Progress Update:
+                    Processed playlists: 481000
+                    Elapsed time: 6:11:04.277691
+                    Estimated time remaining: 6:40:22.953000
+                
+2024-12-03 20:22:16,139 - INFO - 
+                    Progress Update:
+                    Processed playlists: 491000
+                    Elapsed time: 6:41:33.838696
+                    Estimated time remaining: 6:56:17.139000
+                
+2024-12-03 20:26:24,322 - INFO - 
+                    Progress Update:
+                    Processed playlists: 501000
+                    Elapsed time: 6:45:42.021798
+                    Estimated time remaining: 6:44:04.913000
+                
+2024-12-03 20:47:23,241 - INFO - 
+                    Progress Update:
+                    Processed playlists: 511000
+                    Elapsed time: 7:06:40.939888
+                    Estimated time remaining: 6:48:18.900000
+                
+2024-12-03 21:08:01,667 - INFO - 
+                    Progress Update:
+                    Processed playlists: 521000
+                    Elapsed time: 7:27:19.366507
+                    Estimated time remaining: 6:51:15.685000
+                
+2024-12-03 21:44:02,662 - INFO - 
+                    Progress Update:
+                    Processed playlists: 531000
+                    Elapsed time: 8:03:20.361051
+                    Estimated time remaining: 7:06:54.435000
+                
+2024-12-03 22:00:39,915 - INFO - 
+                    Progress Update:
+                    Processed playlists: 541000
+                    Elapsed time: 8:19:57.613863
+                    Estimated time remaining: 7:04:10.632000
+                
+2024-12-03 22:21:20,797 - INFO - 
+                    Progress Update:
+                    Processed playlists: 551000
+                    Elapsed time: 8:40:38.496793
+                    Estimated time remaining: 7:04:15.606000
+                
+2024-12-03 22:35:01,039 - INFO - 
+                    Progress Update:
+                    Processed playlists: 561000
+                    Elapsed time: 8:54:18.737912
+                    Estimated time remaining: 6:58:07.094000
+                
+2024-12-03 22:42:52,584 - INFO - 
+                    Progress Update:
+                    Processed playlists: 571000
+                    Elapsed time: 9:02:10.283195
+                    Estimated time remaining: 6:47:20.559000
+                
+2024-12-03 22:55:43,751 - INFO - 
+                    Progress Update:
+                    Processed playlists: 581000
+                    Elapsed time: 9:15:01.450359
+                    Estimated time remaining: 6:40:15.823000
+                
+2024-12-03 23:00:59,535 - INFO - 
+                    Progress Update:
+                    Processed playlists: 591000
+                    Elapsed time: 9:20:17.234295
+                    Estimated time remaining: 6:27:44.738000
+                
+2024-12-03 23:05:55,510 - INFO - 
+                    Progress Update:
+                    Processed playlists: 601000
+                    Elapsed time: 9:25:13.209515
+                    Estimated time remaining: 6:15:14.772000
+                
+2024-12-03 23:12:48,940 - INFO - 
+                    Progress Update:
+                    Processed playlists: 611000
+                    Elapsed time: 9:32:06.639117
+                    Estimated time remaining: 6:04:14.409000
+                
+2024-12-03 23:17:57,636 - INFO - 
+                    Progress Update:
+                    Processed playlists: 621000
+                    Elapsed time: 9:37:15.335776
+                    Estimated time remaining: 5:52:17.967000
+                
+2024-12-03 23:26:04,280 - INFO - 
+                    Progress Update:
+                    Processed playlists: 631000
+                    Elapsed time: 9:45:21.978861
+                    Estimated time remaining: 5:42:18.909000
+                
+2024-12-03 23:48:09,607 - INFO - 
+                    Progress Update:
+                    Processed playlists: 641000
+                    Elapsed time: 10:07:27.306428
+                    Estimated time remaining: 5:40:12.740000
+                
+2024-12-04 00:08:45,922 - INFO - 
+                    Progress Update:
+                    Processed playlists: 651000
+                    Elapsed time: 10:28:03.621530
+                    Estimated time remaining: 5:36:42.214000
+                
+2024-12-04 00:33:06,412 - INFO - 
+                    Progress Update:
+                    Processed playlists: 661000
+                    Elapsed time: 10:52:24.111651
+                    Estimated time remaining: 5:34:35.580000
+                
+2024-12-04 01:01:47,520 - INFO - 
+                    Progress Update:
+                    Processed playlists: 671000
+                    Elapsed time: 11:21:05.218774
+                    Estimated time remaining: 5:33:56.758000
+                
+2024-12-04 01:33:52,148 - INFO - 
+                    Progress Update:
+                    Processed playlists: 681000
+                    Elapsed time: 11:53:09.847638
+                    Estimated time remaining: 5:34:04.046000
+                
+2024-12-04 01:53:24,452 - INFO - 
+                    Progress Update:
+                    Processed playlists: 691000
+                    Elapsed time: 12:12:42.151053
+                    Estimated time remaining: 5:27:38.889000
+                
+2024-12-04 02:29:40,852 - INFO - 
+                    Progress Update:
+                    Processed playlists: 701000
+                    Elapsed time: 12:48:58.551687
+                    Estimated time remaining: 5:27:59.582000
+                
+2024-12-04 02:51:25,641 - INFO - 
+                    Progress Update:
+                    Processed playlists: 711000
+                    Elapsed time: 13:10:43.340403
+                    Estimated time remaining: 5:21:24.392000
+                
+2024-12-04 02:55:55,457 - INFO - 
+                    Progress Update:
+                    Processed playlists: 721000
+                    Elapsed time: 13:15:13.156129
+                    Estimated time remaining: 5:07:43.104000
+                
+2024-12-04 03:49:00,820 - INFO - 
+                    Progress Update:
+                    Processed playlists: 731000
+                    Elapsed time: 14:08:18.518970
+                    Estimated time remaining: 5:12:10.201000
+                
+2024-12-04 04:10:14,930 - INFO - 
+                    Progress Update:
+                    Processed playlists: 741000
+                    Elapsed time: 14:29:32.629189
+                    Estimated time remaining: 5:03:55.672000
+                
+2024-12-04 04:46:23,801 - INFO - 
+                    Progress Update:
+                    Processed playlists: 751000
+                    Elapsed time: 15:05:41.500142
+                    Estimated time remaining: 5:00:17.391000
+                
+2024-12-04 05:21:26,279 - INFO - 
+                    Progress Update:
+                    Processed playlists: 761000
+                    Elapsed time: 15:40:43.978283
+                    Estimated time remaining: 4:55:26.869000
+                
+2024-12-04 05:56:06,594 - INFO - 
+                    Progress Update:
+                    Processed playlists: 771000
+                    Elapsed time: 16:15:24.293468
+                    Estimated time remaining: 4:49:42.703000
+                
+2024-12-04 06:15:44,248 - INFO - 
+                    Progress Update:
+                    Processed playlists: 781000
+                    Elapsed time: 16:35:01.947812
+                    Estimated time remaining: 4:39:01.017000
+                
+2024-12-04 06:51:22,148 - INFO - 
+                    Progress Update:
+                    Processed playlists: 791000
+                    Elapsed time: 17:10:39.846829
+                    Estimated time remaining: 4:32:19.411000
+                
+2024-12-04 07:14:44,363 - INFO - 
+                    Progress Update:
+                    Processed playlists: 801000
+                    Elapsed time: 17:34:02.061959
+                    Estimated time remaining: 4:21:51.846000
+                
+2024-12-04 07:51:38,390 - INFO - 
+                    Progress Update:
+                    Processed playlists: 811000
+                    Elapsed time: 18:10:56.089459
+                    Estimated time remaining: 4:14:14.190000
+                
+2024-12-04 08:20:24,937 - INFO - 
+                    Progress Update:
+                    Processed playlists: 821000
+                    Elapsed time: 18:39:42.636220
+                    Estimated time remaining: 4:04:07.570000
+                
+2024-12-04 08:24:35,782 - INFO - 
+                    Progress Update:
+                    Processed playlists: 831000
+                    Elapsed time: 18:43:53.481210
+                    Estimated time remaining: 3:48:33.843000
+                
+2024-12-04 08:28:30,936 - INFO - 
+                    Progress Update:
+                    Processed playlists: 841000
+                    Elapsed time: 18:47:48.635584
+                    Estimated time remaining: 3:33:13.458000
+                
+2024-12-04 08:32:17,616 - INFO - 
+                    Progress Update:
+                    Processed playlists: 851000
+                    Elapsed time: 18:51:35.315708
+                    Estimated time remaining: 3:18:07.667000
+                
+2024-12-04 08:36:25,045 - INFO - 
+                    Progress Update:
+                    Processed playlists: 861000
+                    Elapsed time: 18:55:42.744623
+                    Estimated time remaining: 3:03:21.016000
+                
+2024-12-04 08:40:11,445 - INFO - 
+                    Progress Update:
+                    Processed playlists: 871000
+                    Elapsed time: 18:59:29.144334
+                    Estimated time remaining: 2:48:45.855000
+                
+2024-12-04 08:44:08,292 - INFO - 
+                    Progress Update:
+                    Processed playlists: 881000
+                    Elapsed time: 19:03:25.991450
+                    Estimated time remaining: 2:34:26.887000
+                
+2024-12-04 08:48:20,842 - INFO - 
+                    Progress Update:
+                    Processed playlists: 891000
+                    Elapsed time: 19:07:38.541255
+                    Estimated time remaining: 2:20:23.738000
+                
+2024-12-04 08:52:31,010 - INFO - 
+                    Progress Update:
+                    Processed playlists: 901000
+                    Elapsed time: 19:11:48.709319
+                    Estimated time remaining: 2:06:33.498000
+                
+2024-12-04 08:57:02,141 - INFO - 
+                    Progress Update:
+                    Processed playlists: 911000
+                    Elapsed time: 19:16:19.838621
+                    Estimated time remaining: 1:52:58.062000
+                
+2024-12-04 09:01:37,677 - INFO - 
+                    Progress Update:
+                    Processed playlists: 921000
+                    Elapsed time: 19:20:55.376185
+                    Estimated time remaining: 1:39:34.770000
+                
+2024-12-04 09:06:02,509 - INFO - 
+                    Progress Update:
+                    Processed playlists: 931000
+                    Elapsed time: 19:25:20.207921
+                    Estimated time remaining: 1:26:22.038000
+                
+2024-12-04 09:09:48,611 - INFO - 
+                    Progress Update:
+                    Processed playlists: 941000
+                    Elapsed time: 19:29:06.310184
+                    Estimated time remaining: 1:13:18.096000
+                
+2024-12-04 09:13:51,300 - INFO - 
+                    Progress Update:
+                    Processed playlists: 951000
+                    Elapsed time: 19:33:08.999183
+                    Estimated time remaining: 1:00:26.784000
+                
+2024-12-04 09:17:47,484 - INFO - 
+                    Progress Update:
+                    Processed playlists: 961000
+                    Elapsed time: 19:37:05.182931
+                    Estimated time remaining: 0:47:46.149000
+                
+2024-12-04 09:21:56,381 - INFO - 
+                    Progress Update:
+                    Processed playlists: 971000
+                    Elapsed time: 19:41:14.080473
+                    Estimated time remaining: 0:35:16.739000
+                
+2024-12-04 09:26:01,717 - INFO - 
+                    Progress Update:
+                    Processed playlists: 981000
+                    Elapsed time: 19:45:19.415993
+                    Estimated time remaining: 0:22:57.443000
+                
+2024-12-04 09:29:56,812 - INFO - 
+                    Progress Update:
+                    Processed playlists: 991000
+                    Elapsed time: 19:49:14.511608
+                    Estimated time remaining: 0:10:48.027000
+                
+2024-12-04 09:33:42,617 - INFO - 
+            Data Loading Completed:
+            Total playlists processed: 1000000
+            Total processing time: 19:53:00.315863
+        

@@ -1,0 +1,241 @@
+2024-12-16 12:14:20,501 - __main__ - INFO - Starting Flask application
+2024-12-16 12:14:36,406 - __main__ - INFO - Starting Flask application
+2024-12-16 12:15:31,768 - __main__ - INFO - Starting Flask application
+2024-12-16 12:15:53,756 - __main__ - INFO - Starting Flask application
+2024-12-16 12:15:53,761 - werkzeug - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2024-12-16 12:15:53,761 - werkzeug - INFO -  * Running on http://192.168.68.54:5001/ (Press CTRL+C to quit)
+2024-12-16 12:15:53,761 - werkzeug - INFO -  * Restarting with stat
+2024-12-16 12:15:54,452 - __main__ - INFO - Starting Flask application
+2024-12-16 12:15:54,455 - werkzeug - WARNING -  * Debugger is active!
+2024-12-16 12:15:54,463 - werkzeug - INFO -  * Debugger PIN: 125-014-988
+2024-12-16 12:23:04,540 - __main__ - INFO - Home page accessed
+2024-12-16 12:23:04,550 - werkzeug - INFO - 127.0.0.1 - - [16/Dec/2024 12:23:04] "GET / HTTP/1.1" 200 -
+2024-12-16 12:23:04,572 - werkzeug - INFO - 127.0.0.1 - - [16/Dec/2024 12:23:04] "GET /static/style.css HTTP/1.1" 200 -
+2024-12-16 12:23:04,573 - werkzeug - INFO - 127.0.0.1 - - [16/Dec/2024 12:23:04] "GET /static/app.js HTTP/1.1" 200 -
+2024-12-16 12:23:04,758 - werkzeug - INFO - 127.0.0.1 - - [16/Dec/2024 12:23:04] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-12-16 12:23:06,027 - __main__ - INFO - Playlist analysis requested
+2024-12-16 12:23:13,182 - __main__ - INFO - Artist analysis requested
+2024-12-16 12:24:23,437 - root - INFO - Loaded 1000000 playlists for training
+2024-12-16 12:24:23,653 - root - INFO - Training Random Forest model...
+2024-12-16 12:24:30,118 - root - INFO - Loaded 67417 artists for clustering
+2024-12-16 12:24:30,127 - root - INFO - Performing KMeans clustering...
+2024-12-16 12:30:53,059 - __main__ - INFO - Starting Flask application
+2024-12-16 12:30:53,063 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2024-12-16 12:30:53,064 - werkzeug - INFO -  * Restarting with stat
+2024-12-16 12:30:53,808 - __main__ - INFO - Starting Flask application
+2024-12-16 12:30:53,811 - werkzeug - WARNING -  * Debugger is active!
+2024-12-16 12:30:53,819 - werkzeug - INFO -  * Debugger PIN: 125-014-988
+2024-12-16 12:32:02,881 - werkzeug - INFO -  * Detected change in '/Users/dtquynhanh/Documents/Database Systems/Project/Part 3/webapp/app.py', reloading
+2024-12-16 12:32:03,017 - werkzeug - INFO -  * Restarting with stat
+2024-12-16 12:32:03,833 - __main__ - INFO - Starting Flask application
+2024-12-16 12:32:03,834 - __main__ - WARNING - Port 5000 is already in use. Please free the port or use a different one.
+2024-12-16 12:32:46,990 - __main__ - INFO - Starting Flask application
+2024-12-16 12:32:46,990 - __main__ - WARNING - Port 5000 is already in use. Please free the port or use a different one.
+2024-12-16 12:33:01,482 - __main__ - INFO - Starting Flask application
+2024-12-16 12:33:01,482 - __main__ - WARNING - Port 5000 is already in use. Please free the port or use a different one.
+2024-12-16 12:34:03,856 - __main__ - INFO - Starting Flask application
+2024-12-16 12:34:03,860 - werkzeug - INFO -  * Running on http://127.0.0.1:5001/ (Press CTRL+C to quit)
+2024-12-16 12:34:03,860 - werkzeug - INFO -  * Restarting with stat
+2024-12-16 12:34:04,602 - __main__ - INFO - Starting Flask application
+2024-12-16 12:34:04,603 - __main__ - WARNING - Port 5001 is already in use. Please free the port or use a different one.
+2024-12-16 12:34:36,680 - __main__ - INFO - Starting Flask application
+2024-12-16 12:34:36,684 - werkzeug - INFO -  * Running on http://127.0.0.1:5002/ (Press CTRL+C to quit)
+2024-12-16 12:34:36,684 - werkzeug - INFO -  * Restarting with stat
+2024-12-16 12:34:37,420 - __main__ - INFO - Starting Flask application
+2024-12-16 12:34:37,420 - __main__ - WARNING - Port 5002 is already in use. Please free the port or use a different one.
+2024-12-16 12:36:15,115 - __main__ - INFO - Starting Flask application
+2024-12-16 12:36:15,118 - werkzeug - INFO -  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+2024-12-16 12:36:15,118 - werkzeug - INFO -  * Restarting with stat
+2024-12-16 12:36:15,850 - __main__ - INFO - Starting Flask application
+2024-12-16 12:36:15,853 - werkzeug - WARNING -  * Debugger is active!
+2024-12-16 12:36:15,859 - werkzeug - INFO -  * Debugger PIN: 125-014-988
+2024-12-16 12:36:59,028 - __main__ - INFO - Starting Flask application
+2024-12-16 12:36:59,032 - werkzeug - INFO -  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+2024-12-16 12:36:59,032 - werkzeug - INFO -  * Restarting with stat
+2024-12-16 12:36:59,768 - __main__ - INFO - Starting Flask application
+2024-12-16 12:36:59,771 - werkzeug - WARNING -  * Debugger is active!
+2024-12-16 12:36:59,778 - werkzeug - INFO -  * Debugger PIN: 125-014-988
+2024-12-16 12:37:08,518 - __main__ - INFO - Home page accessed
+2024-12-16 12:37:08,523 - werkzeug - INFO - 127.0.0.1 - - [16/Dec/2024 12:37:08] "GET / HTTP/1.1" 200 -
+2024-12-16 12:37:08,543 - werkzeug - INFO - 127.0.0.1 - - [16/Dec/2024 12:37:08] "GET /static/style.css HTTP/1.1" 200 -
+2024-12-16 12:37:08,547 - werkzeug - INFO - 127.0.0.1 - - [16/Dec/2024 12:37:08] "GET /static/app.js HTTP/1.1" 200 -
+2024-12-16 12:37:08,675 - werkzeug - INFO - 127.0.0.1 - - [16/Dec/2024 12:37:08] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-12-16 12:37:10,174 - __main__ - INFO - Playlist analysis requested
+2024-12-16 12:37:10,212 - ml_models.playlist_popularity - INFO - Initialized PlaylistPopularityPredictor
+2024-12-16 12:37:51,391 - ml_models.playlist_popularity - INFO - Loaded 1000000 playlists for training
+2024-12-16 12:37:51,470 - root - INFO - Training Random Forest model...
+2024-12-16 12:41:24,934 - root - INFO - Model Performance - RMSE: 107.87, R2: -0.51
+2024-12-16 12:44:28,487 - __main__ - INFO - Starting Flask application
+2024-12-16 12:44:28,493 - werkzeug - INFO -  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+2024-12-16 12:44:28,493 - werkzeug - INFO -  * Restarting with stat
+2024-12-16 12:44:29,231 - __main__ - INFO - Starting Flask application
+2024-12-16 12:44:29,233 - werkzeug - WARNING -  * Debugger is active!
+2024-12-16 12:44:29,241 - werkzeug - INFO -  * Debugger PIN: 125-014-988
+2024-12-16 12:44:44,493 - __main__ - INFO - Home page accessed
+2024-12-16 12:44:44,499 - werkzeug - INFO - 127.0.0.1 - - [16/Dec/2024 12:44:44] "GET / HTTP/1.1" 200 -
+2024-12-16 12:44:44,536 - werkzeug - INFO - 127.0.0.1 - - [16/Dec/2024 12:44:44] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2024-12-16 12:44:44,539 - werkzeug - INFO - 127.0.0.1 - - [16/Dec/2024 12:44:44] "[36mGET /static/app.js HTTP/1.1[0m" 304 -
+2024-12-16 12:44:45,538 - __main__ - INFO - Playlist analysis requested
+2024-12-16 12:44:45,538 - ml_models.playlist_popularity - INFO - Initializing PlaylistPopularityPredictor
+2024-12-16 12:44:45,587 - ml_models.playlist_popularity - INFO - Initialization complete
+2024-12-16 12:44:45,587 - ml_models.playlist_popularity - INFO - Starting model training
+2024-12-16 12:44:45,587 - ml_models.playlist_popularity - INFO - Loading training data
+2024-12-16 12:45:27,733 - ml_models.playlist_popularity - INFO - Loaded 1000000 playlists for training
+2024-12-16 12:45:27,733 - ml_models.playlist_popularity - INFO - Preparing features
+2024-12-16 12:45:27,757 - ml_models.playlist_popularity - INFO - Feature preparation complete
+2024-12-16 12:45:27,842 - ml_models.playlist_popularity - INFO - Training Random Forest model...
+2024-12-16 12:49:20,392 - ml_models.playlist_popularity - INFO - Model Performance - RMSE: 107.87, R2: -0.51
+2024-12-16 12:49:20,395 - ml_models.playlist_popularity - INFO - Creating feature importance plot
+2024-12-16 12:49:20,684 - ml_models.playlist_popularity - INFO - Feature importance plot saved to /Users/dtquynhanh/Documents/Database Systems/Project/Part 3/ml_models/logs/feature_importance.png
+2024-12-16 12:49:20,692 - __main__ - INFO - Playlist analysis completed successfully
+2024-12-16 12:49:20,693 - werkzeug - INFO - 127.0.0.1 - - [16/Dec/2024 12:49:20] "POST /analyze_playlist HTTP/1.1" 200 -
+2024-12-16 12:51:16,558 - __main__ - INFO - Artist analysis requested
+2024-12-16 12:51:16,560 - ml_models.artist_trends - INFO - Initializing ArtistTrendAnalyzer
+2024-12-16 12:51:16,561 - ml_models.artist_trends - INFO - Initialization complete
+2024-12-16 12:51:16,561 - ml_models.artist_trends - INFO - Starting artist trend analysis
+2024-12-16 12:51:16,561 - ml_models.artist_trends - INFO - Loading artist data
+2024-12-16 12:52:36,183 - ml_models.artist_trends - INFO - Loaded data for 67417 artists
+2024-12-16 12:52:36,186 - ml_models.artist_trends - INFO - Preparing features
+2024-12-16 12:52:36,191 - ml_models.artist_trends - INFO - Feature preparation complete
+2024-12-16 12:52:36,191 - ml_models.artist_trends - INFO - Performing KMeans clustering...
+2024-12-16 12:52:36,454 - ml_models.artist_trends - INFO - Creating cluster visualization
+2024-12-16 12:52:38,538 - ml_models.artist_trends - INFO - Cluster visualization saved to /Users/dtquynhanh/Documents/Database Systems/Project/Part 3/ml_models/logs/artist_clusters.png
+2024-12-16 12:52:38,554 - ml_models.artist_trends - INFO - Analysis completed successfully
+2024-12-16 12:52:38,555 - __main__ - INFO - Artist analysis completed successfully
+2024-12-16 12:52:38,555 - __main__ - ERROR - Error in artist analysis: keys must be str, int, float, bool or None, not tuple
+2024-12-16 12:52:38,556 - werkzeug - INFO - 127.0.0.1 - - [16/Dec/2024 12:52:38] "POST /analyze_artists HTTP/1.1" 200 -
+2024-12-16 12:58:27,563 - __main__ - INFO - Starting Flask application
+2024-12-16 12:58:27,568 - werkzeug - INFO -  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+2024-12-16 12:58:27,569 - werkzeug - INFO -  * Restarting with stat
+2024-12-16 12:58:28,308 - __main__ - INFO - Starting Flask application
+2024-12-16 12:58:28,311 - werkzeug - WARNING -  * Debugger is active!
+2024-12-16 12:58:28,320 - werkzeug - INFO -  * Debugger PIN: 125-014-988
+2024-12-16 12:59:48,935 - werkzeug - INFO -  * Detected change in '/Users/dtquynhanh/Documents/Database Systems/Project/Part 3/webapp/app.py', reloading
+2024-12-16 12:59:49,066 - werkzeug - INFO -  * Restarting with stat
+2024-12-16 12:59:49,857 - __main__ - INFO - Starting Flask application
+2024-12-16 12:59:49,857 - __main__ - INFO - Server will be available at http://127.0.0.1:8080
+2024-12-16 12:59:49,860 - werkzeug - WARNING -  * Debugger is active!
+2024-12-16 12:59:49,866 - werkzeug - INFO -  * Debugger PIN: 125-014-988
+2024-12-16 12:59:54,422 - __main__ - INFO - Starting Flask application
+2024-12-16 12:59:54,422 - __main__ - INFO - Server will be available at http://127.0.0.1:8080
+2024-12-16 12:59:54,425 - werkzeug - INFO -  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+2024-12-16 12:59:54,426 - werkzeug - INFO -  * Restarting with stat
+2024-12-16 12:59:55,167 - __main__ - INFO - Starting Flask application
+2024-12-16 12:59:55,167 - __main__ - INFO - Server will be available at http://127.0.0.1:8080
+2024-12-16 12:59:55,170 - werkzeug - WARNING -  * Debugger is active!
+2024-12-16 12:59:55,176 - werkzeug - INFO -  * Debugger PIN: 125-014-988
+2024-12-16 13:00:01,471 - __main__ - INFO - Home page accessed
+2024-12-16 13:00:01,473 - werkzeug - INFO - 127.0.0.1 - - [16/Dec/2024 13:00:01] "GET / HTTP/1.1" 200 -
+2024-12-16 13:00:03,972 - __main__ - INFO - Playlist analysis requested
+2024-12-16 13:00:03,972 - ml_models.playlist_popularity - INFO - Initializing PlaylistPopularityPredictor
+2024-12-16 13:00:04,029 - ml_models.playlist_popularity - INFO - Initialization complete
+2024-12-16 13:00:04,029 - ml_models.playlist_popularity - INFO - Starting model training
+2024-12-16 13:00:04,029 - ml_models.playlist_popularity - INFO - Loading training data
+2024-12-16 13:00:45,844 - ml_models.playlist_popularity - INFO - Loaded 1000000 playlists for training
+2024-12-16 13:00:45,844 - ml_models.playlist_popularity - INFO - Preparing features
+2024-12-16 13:00:45,865 - ml_models.playlist_popularity - INFO - Feature preparation complete
+2024-12-16 13:00:45,934 - ml_models.playlist_popularity - INFO - Training Random Forest model...
+2024-12-16 13:04:18,800 - ml_models.playlist_popularity - INFO - Model Performance - RMSE: 107.87, R2: -0.51
+2024-12-16 13:04:18,802 - ml_models.playlist_popularity - INFO - Creating feature importance plot
+2024-12-16 13:04:18,895 - ml_models.playlist_popularity - INFO - Feature importance plot saved to /Users/dtquynhanh/Documents/Database Systems/Project/Part 3/ml_models/logs/feature_importance.png
+2024-12-16 13:04:18,900 - __main__ - INFO - Playlist analysis completed successfully
+2024-12-16 13:04:18,901 - werkzeug - INFO - 127.0.0.1 - - [16/Dec/2024 13:04:18] "POST /analyze_playlist HTTP/1.1" 200 -
+2024-12-16 13:04:18,908 - werkzeug - INFO - 127.0.0.1 - - [16/Dec/2024 13:04:18] "GET /plots/feature_importance.png?1734372258904 HTTP/1.1" 200 -
+2024-12-16 13:15:13,672 - __main__ - INFO - Artist analysis requested
+2024-12-16 13:15:13,672 - ml_models.artist_trends - INFO - Initializing ArtistTrendAnalyzer
+2024-12-16 13:15:13,674 - ml_models.artist_trends - INFO - Initialization complete
+2024-12-16 13:15:13,674 - ml_models.artist_trends - INFO - Starting artist trend analysis
+2024-12-16 13:15:13,674 - ml_models.artist_trends - INFO - Loading artist data
+2024-12-16 13:16:25,849 - ml_models.artist_trends - INFO - Loaded data for 67417 artists
+2024-12-16 13:16:25,850 - ml_models.artist_trends - INFO - Preparing features
+2024-12-16 13:16:25,856 - ml_models.artist_trends - INFO - Feature preparation complete
+2024-12-16 13:16:25,856 - ml_models.artist_trends - INFO - Performing KMeans clustering...
+2024-12-16 13:16:26,146 - ml_models.artist_trends - INFO - Creating cluster visualization
+2024-12-16 13:16:28,220 - ml_models.artist_trends - INFO - Cluster visualization saved to /Users/dtquynhanh/Documents/Database Systems/Project/Part 3/ml_models/logs/artist_clusters.png
+2024-12-16 13:16:28,226 - ml_models.artist_trends - INFO - Analysis completed successfully
+2024-12-16 13:16:28,227 - __main__ - INFO - Artist analysis completed successfully
+2024-12-16 13:16:28,227 - werkzeug - INFO - 127.0.0.1 - - [16/Dec/2024 13:16:28] "POST /analyze_artists HTTP/1.1" 200 -
+2024-12-16 13:16:28,233 - werkzeug - INFO - 127.0.0.1 - - [16/Dec/2024 13:16:28] "GET /plots/artist_clusters.png?1734372988231 HTTP/1.1" 200 -
+2024-12-16 13:19:51,880 - __main__ - INFO - Starting Flask application
+2024-12-16 13:19:51,880 - __main__ - INFO - Server will be available at http://127.0.0.1:8080
+2024-12-16 13:19:51,886 - werkzeug - INFO -  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+2024-12-16 13:19:51,886 - werkzeug - INFO -  * Restarting with stat
+2024-12-16 13:19:52,718 - __main__ - INFO - Starting Flask application
+2024-12-16 13:19:52,718 - __main__ - INFO - Server will be available at http://127.0.0.1:8080
+2024-12-16 13:19:52,721 - werkzeug - WARNING -  * Debugger is active!
+2024-12-16 13:19:52,730 - werkzeug - INFO -  * Debugger PIN: 125-014-988
+2024-12-16 13:20:02,122 - __main__ - INFO - Home page accessed
+2024-12-16 13:20:02,126 - werkzeug - INFO - 127.0.0.1 - - [16/Dec/2024 13:20:02] "GET / HTTP/1.1" 200 -
+2024-12-16 13:20:05,800 - __main__ - INFO - Playlist analysis requested
+2024-12-16 13:20:05,801 - ml_models.playlist_popularity - INFO - Initializing PlaylistPopularityPredictor
+2024-12-16 13:20:05,858 - ml_models.playlist_popularity - INFO - Initialization complete
+2024-12-16 13:20:05,858 - ml_models.playlist_popularity - INFO - Starting model training
+2024-12-16 13:20:05,858 - ml_models.playlist_popularity - INFO - Loading training data
+2024-12-16 13:20:47,009 - ml_models.playlist_popularity - INFO - Loaded 1000000 playlists for training
+2024-12-16 13:20:47,010 - ml_models.playlist_popularity - INFO - Preparing features
+2024-12-16 13:20:47,034 - ml_models.playlist_popularity - INFO - Feature preparation complete
+2024-12-16 13:20:47,109 - ml_models.playlist_popularity - INFO - Training Random Forest model...
+2024-12-16 13:24:24,619 - ml_models.playlist_popularity - INFO - Model Performance - RMSE: 107.87, R2: -0.51
+2024-12-16 13:24:24,621 - ml_models.playlist_popularity - INFO - Creating feature importance plot
+2024-12-16 13:24:24,721 - ml_models.playlist_popularity - INFO - Feature importance plot saved to /Users/dtquynhanh/Documents/Database Systems/Project/Part 3/ml_models/logs/feature_importance.png
+2024-12-16 13:24:24,725 - __main__ - INFO - Playlist analysis completed successfully
+2024-12-16 13:24:24,726 - werkzeug - INFO - 127.0.0.1 - - [16/Dec/2024 13:24:24] "POST /analyze_playlist HTTP/1.1" 200 -
+2024-12-16 13:24:24,733 - werkzeug - INFO - 127.0.0.1 - - [16/Dec/2024 13:24:24] "GET /plots/feature_importance.png?1734373464729 HTTP/1.1" 200 -
+2024-12-16 13:24:28,098 - __main__ - INFO - Artist analysis requested
+2024-12-16 13:24:28,098 - ml_models.artist_trends - INFO - Initializing ArtistTrendAnalyzer
+2024-12-16 13:24:28,099 - ml_models.artist_trends - INFO - Initialization complete
+2024-12-16 13:24:28,100 - ml_models.artist_trends - INFO - Starting artist trend analysis
+2024-12-16 13:24:28,100 - ml_models.artist_trends - INFO - Loading artist data
+2024-12-16 13:25:58,624 - ml_models.artist_trends - INFO - Loaded data for 67417 artists
+2024-12-16 13:25:58,625 - ml_models.artist_trends - INFO - Preparing features
+2024-12-16 13:25:58,631 - ml_models.artist_trends - INFO - Feature preparation complete
+2024-12-16 13:25:58,631 - ml_models.artist_trends - INFO - Performing KMeans clustering...
+2024-12-16 13:25:58,862 - ml_models.artist_trends - INFO - Creating cluster visualization
+2024-12-16 13:26:00,997 - ml_models.artist_trends - INFO - Cluster visualization saved to /Users/dtquynhanh/Documents/Database Systems/Project/Part 3/ml_models/logs/artist_clusters.png
+2024-12-16 13:26:01,002 - ml_models.artist_trends - INFO - Analysis completed successfully
+2024-12-16 13:26:01,005 - __main__ - INFO - Artist analysis completed successfully
+2024-12-16 13:26:01,006 - werkzeug - INFO - 127.0.0.1 - - [16/Dec/2024 13:26:01] "POST /analyze_artists HTTP/1.1" 200 -
+2024-12-16 13:26:01,010 - werkzeug - INFO - 127.0.0.1 - - [16/Dec/2024 13:26:01] "GET /plots/artist_clusters.png?1734373561008 HTTP/1.1" 200 -
+2024-12-16 13:35:17,258 - __main__ - INFO - Starting Flask application
+2024-12-16 13:35:17,258 - __main__ - INFO - Server will be available at http://127.0.0.1:8080
+2024-12-16 13:35:17,264 - werkzeug - INFO -  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+2024-12-16 13:35:17,264 - werkzeug - INFO -  * Restarting with stat
+2024-12-16 13:35:18,002 - __main__ - INFO - Starting Flask application
+2024-12-16 13:35:18,002 - __main__ - INFO - Server will be available at http://127.0.0.1:8080
+2024-12-16 13:35:18,004 - werkzeug - WARNING -  * Debugger is active!
+2024-12-16 13:35:18,012 - werkzeug - INFO -  * Debugger PIN: 125-014-988
+2024-12-16 13:35:22,600 - __main__ - INFO - Home page accessed
+2024-12-16 13:35:22,604 - werkzeug - INFO - 127.0.0.1 - - [16/Dec/2024 13:35:22] "GET / HTTP/1.1" 200 -
+2024-12-16 13:35:23,137 - __main__ - INFO - Home page accessed
+2024-12-16 13:35:23,138 - werkzeug - INFO - 127.0.0.1 - - [16/Dec/2024 13:35:23] "GET / HTTP/1.1" 200 -
+2024-12-16 13:35:25,408 - __main__ - INFO - Playlist analysis requested
+2024-12-16 13:35:25,408 - ml_models.playlist_popularity - INFO - Initializing PlaylistPopularityPredictor
+2024-12-16 13:35:25,456 - ml_models.playlist_popularity - INFO - Initialization complete
+2024-12-16 13:35:25,456 - ml_models.playlist_popularity - INFO - Starting model training
+2024-12-16 13:35:25,456 - ml_models.playlist_popularity - INFO - Loading training data
+2024-12-16 13:35:26,358 - __main__ - INFO - Artist analysis requested
+2024-12-16 13:35:26,358 - ml_models.artist_trends - INFO - Initializing ArtistTrendAnalyzer
+2024-12-16 13:35:26,359 - ml_models.artist_trends - INFO - Initialization complete
+2024-12-16 13:35:26,359 - ml_models.artist_trends - INFO - Starting artist trend analysis
+2024-12-16 13:35:26,359 - ml_models.artist_trends - INFO - Loading artist data
+2024-12-16 13:36:44,608 - ml_models.artist_trends - INFO - Loaded data for 67417 artists
+2024-12-16 13:36:44,609 - ml_models.artist_trends - INFO - Preparing features
+2024-12-16 13:36:44,616 - ml_models.artist_trends - INFO - Feature preparation complete
+2024-12-16 13:36:44,616 - ml_models.artist_trends - INFO - Performing KMeans clustering...
+2024-12-16 13:36:44,818 - ml_models.playlist_popularity - INFO - Loaded 1000000 playlists for training
+2024-12-16 13:36:44,818 - ml_models.playlist_popularity - INFO - Preparing features
+2024-12-16 13:36:44,843 - ml_models.playlist_popularity - INFO - Feature preparation complete
+2024-12-16 13:36:44,931 - ml_models.playlist_popularity - INFO - Training Random Forest model...
+2024-12-16 13:36:45,043 - ml_models.artist_trends - INFO - Creating cluster visualization
+2024-12-16 13:36:47,245 - ml_models.artist_trends - INFO - Cluster visualization saved to /Users/dtquynhanh/Documents/Database Systems/Project/Part 3/ml_models/logs/artist_clusters.png
+2024-12-16 13:36:47,249 - ml_models.artist_trends - INFO - Analysis completed successfully
+2024-12-16 13:36:47,250 - __main__ - INFO - Artist analysis completed successfully
+2024-12-16 13:36:47,251 - werkzeug - INFO - 127.0.0.1 - - [16/Dec/2024 13:36:47] "POST /analyze_artists HTTP/1.1" 200 -
+2024-12-16 13:36:47,258 - werkzeug - INFO - 127.0.0.1 - - [16/Dec/2024 13:36:47] "GET /plots/artist_clusters.png?1734374207255 HTTP/1.1" 200 -
+2024-12-16 13:40:50,704 - ml_models.playlist_popularity - INFO - Model Performance - RMSE: 107.87, R2: -0.51
+2024-12-16 13:40:50,707 - ml_models.playlist_popularity - INFO - Creating feature importance plot
+2024-12-16 13:40:50,795 - ml_models.playlist_popularity - INFO - Feature importance plot saved to /Users/dtquynhanh/Documents/Database Systems/Project/Part 3/ml_models/logs/feature_importance.png
+2024-12-16 13:40:50,808 - __main__ - INFO - Playlist analysis completed successfully
+2024-12-16 13:40:50,809 - werkzeug - INFO - 127.0.0.1 - - [16/Dec/2024 13:40:50] "POST /analyze_playlist HTTP/1.1" 200 -
+2024-12-16 13:40:50,812 - werkzeug - INFO - 127.0.0.1 - - [16/Dec/2024 13:40:50] "GET /plots/feature_importance.png?1734374450810 HTTP/1.1" 200 -
